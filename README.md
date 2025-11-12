@@ -1,4 +1,4 @@
-# **DMachine Learning Specialization (Coursera | Stanford)**
+# **Machine Learning Specialization (Coursera | Stanford)**
 
 Welcome to my repository for the Machine Learning Specialization\! This repo serves as a comprehensive portfolio of my work, notes, and implementations from the three courses in this program taught by Andrew Ng.
 
@@ -8,14 +8,27 @@ The primary goal here isn't just to store course files, but to demonstrate a dee
 
 ## **Specialization Overview**
 
+- Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
+- Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods
+- Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection
+- Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model
+
 This specialization is divided into three main courses, each building upon the last:
 
 1. **Course 1: Supervised Machine Learning: Regression and Classification**  
    * Linear Regression, Gradient Descent, Logistic Regression, Regularization.  
+   * Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
+   * Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression
 2. **Course 2: Advanced Learning Algorithms**  
    * Neural Networks, TensorFlow, Model Evaluation (Bias/Variance), Advice for ML.  
+   * Build and train a neural network with TensorFlow to perform multi-class classification
+   * Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
+   * Build and use decision trees and tree ensemble methods, including random forests and boosted trees
 3. **Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning**  
    * K-Means Clustering, Anomaly Detection, Collaborative Filtering, Content-Based Filtering, Reinforcement Learning.
+   * Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
+   * Build recommender systems with a collaborative filtering approach and a content-based deep learning method
+   * Build a deep reinforcement learning model
 
 ## **Repository Structure**
 
