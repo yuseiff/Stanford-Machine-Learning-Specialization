@@ -4,8 +4,6 @@ Welcome to my repository for the Machine Learning Specialization\! This repo ser
 
 The primary goal here isn't just to store course files, but to demonstrate a deep and practical understanding of the concepts by organizing the labs, adding personal revision notebooks, and implementing core models from scratch.
 
-**\[View My Certificate\]** \<\!-- Add link to your certificate here \--\>
-
 ## **Specialization Overview**
 
 - Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
